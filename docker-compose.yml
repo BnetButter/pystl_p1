@@ -103,6 +103,8 @@ services:
             capabilities: [gpu]
     
   # --- MONITORS --- #
+  
+  
   prometheus:
     image: prom/prometheus
     volumes:
@@ -138,6 +140,7 @@ services:
       - grafana-storage:/var/lib/grafana
       - ./grafana.ini:/etc/grafana/grafana.ini
   
+
 
 volumes:
   postgres_data:
