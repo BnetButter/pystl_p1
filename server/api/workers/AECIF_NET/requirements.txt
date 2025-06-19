@@ -1,0 +1,11 @@
+scipy
+numpy
+matplotlib
+opencv-python-headless
+torch
+torchvision
+tqdm
+Pillow
+h5py
+celery
+requests

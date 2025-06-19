@@ -1,0 +1,6 @@
+.dev-container
+__pycache__
+.env
+node_modules
+img/*.jpg
+

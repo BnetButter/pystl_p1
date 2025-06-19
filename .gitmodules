@@ -1,0 +1,3 @@
+[submodule "server/api/workers/AECIF-Net"]
+	path = server/api/workers/AECIF-Net
+	url = https://github.com/itschenyu/AECIF-Net

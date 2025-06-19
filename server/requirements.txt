@@ -1,0 +1,7 @@
+django
+psycopg2-binary
+djangorestframework
+celery
+django-celery-results
+pillow
+django-filter
